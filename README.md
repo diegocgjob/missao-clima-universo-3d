@@ -18,6 +18,10 @@ O protótipo usa geometria original simplificada, não os modelos pesquisados. N
 
 O site documenta a ideia geral, o contrato da experiência de 40 segundos, a arquitetura modular de cenas e dois portões de aceitação: funcional e visual. As seis imagens fornecidas são critérios de comparação para câmera, luz, composição, interface e leitura das soluções climáticas. A produção proposta usa canvas base 1920 × 1080, aspecto `expand`, cenas salvas por elemento e validação no touch e no monitor do evento. O protótipo WebGL foi preservado sem alterações.
 
+## Personagem aprovado · V1
+
+O protagonista possui uma prancha de turnaround em T-pose e vistas frontal e traseira com transparência. A identidade aprovada combina pele morena, cabelo cacheado, camiseta turquesa, calça azul-marinho, tênis branco e mochila amarela. Os arquivos em `dist/assets/character/` servem como referência para modelagem, rig e animação no Xogot/Godot.
+
 ## Fontes de assets
 https://kenney.nl/assets/city-kit-roads
 https://kenney.nl/assets/city-kit-suburban
